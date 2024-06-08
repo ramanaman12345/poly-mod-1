@@ -1,4 +1,4 @@
-# Transferring NFTs from Goerli to Mumbai Testnet
+# Transferring NFTs from  Mumbai Testnet
 
 This project is part of the Polygon Proof: Proof of Stake  by Metacrafters
 
